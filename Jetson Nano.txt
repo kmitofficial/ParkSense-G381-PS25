@@ -1,0 +1,28 @@
+Jetson Nano 
+
+->Formatting the SD Card
+->Flashing of SD Card Image (JetPack)
+->Insertion of SD Card in Jetson nano
+
+Youtube link for setting up jetson nano:
+https://youtu.be/5INy0FvaWLw?si=xCXIEH2cwsEWMATO
+
+
+Installing Dependencies in jetson nano
+
+->Jetson Stats
+->Jetson Utils via Jetson inference
+->Open CV with CUDA(4.12.0)
+->matplotlib
+->Python(3.6.9)
+->Tensorflow (8.2.1.9)
+->pymav link
+->pyenv
+->paddle ocr
+->dronekit
+
+
+=>Sent best.pt model
+=>run test.py for number plate detection, text extraction, rover movement
+
+
