@@ -1,0 +1,12 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch==1.8.0+cpu
+flask
+flask-cors
+pymongo
+opencv-python
+numpy
+qrcode
+ultralytics
+paddlepaddle
+paddleocr
+gunicorn
